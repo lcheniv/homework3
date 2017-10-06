@@ -1,0 +1,6 @@
+<root>
+    <item name='javafx.scene.paint.Color LIGHTCYAN'>
+        <annotation name='java.lang.Deprecated'/>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

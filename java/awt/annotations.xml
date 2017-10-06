@@ -1,0 +1,5 @@
+<root>
+    <item name='java.awt.Rectangle'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
